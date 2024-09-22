@@ -22,6 +22,7 @@ Quality Of Character: It’s all about the sighs with Mrs. Peacock, as handled b
 ![unnamed](/journal_assets/robot_foundation1.jpeg)
 ![unnamed](/journal_assets/robot_foundation2.jpeg)
 ![unnamed](/journal_assets/robot_foundation3.jpeg)
-In class, we started building the foundation of our performing robot. Pranav and I went with the standard 2 motorized set-up reccomended in class. We first sauldered single-core wires to our two servos to have longer cables to work with. Next, wepicked out a wooden foundation to build Mrs.Peacock on, got to puting our mount and motor together. We drilled the motors on opposing sides of the square foundation, center each of each side. To keep the plaq balanced, we also drilled a free-spinning wheel on the adjacent side.
 
-HOwever, we will likely have the free-spinning wheel since we did not adjust for the added height of the larger motorized wheel. Perhaps we shall drill a small wooden block to the underside of our foundation, which we will then drill the free-spinning wheel into.
+In class, we started building the foundation of our performing robot. Pranav and I went with the standard 2 motorized set-up recommended in class. We first sauldered single-core wires to our two servos to have longer cables to work with. Next, we picked out a wooden foundation to build Mrs.Peacock on, and got to puting our mounts, motors, and wheels together. We drilled the motors on opposing sides of the square foundation, center each of each side. To keep the plaque balanced, we drilled a free-spinning wheel on the adjacent side.
+
+However, we will likely have to redo the free-spinning wheel, since we did not adjust for the added height of the larger motorized wheel. Perhaps we shall drill a small wooden block to the underside of our foundation, which we will then use to drill the free-spinning wheel into.
