@@ -13,3 +13,4 @@ Quality Of Character: It’s all about the sighs with Mrs. Peacock, as handled b
 
 ### Sketch
 ![unnamed](mrs.peacock_v1.jpeg)
+![unnamed](/journal_assets/mrs.peacock_v1.jpeg)
