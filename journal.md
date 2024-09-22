@@ -12,5 +12,4 @@ Quality Of Character: It’s all about the sighs with Mrs. Peacock, as handled b
 [source](https://www.cinemablend.com/new/Every-Single-Character-Clue-Ordered-By-Greatness-40549.html)
 
 ### Sketch
-![unnamed](mrs.peacock_v1.jpeg)
 ![unnamed](/journal_assets/mrs.peacock_v1.jpeg)
