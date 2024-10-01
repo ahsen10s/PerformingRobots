@@ -2,8 +2,11 @@
 
 ## 1 October 2024
 **Presentation 1 question**
+\n
 Why are we so obsessed with mimicking human realism with robots? Humans already exist. Would it not be better to explore themes only robots perform? Our obsession with anthropomorphising touches all we do.
+\n
 **Presentation 2 question**
+\n
 Toomie said that people's initial response from seeing the ultra realistic robot, was worry and unease. They got more relaxed after spending some time with it. Could it be that they were tense at first from seeing it mimic humans so closely and gradually relaxed after seeing it fail to talk exactly like humans? Are we instinctually afraid of being copied by something not us?
 
 
