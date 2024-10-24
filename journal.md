@@ -1,5 +1,9 @@
 # Journal: Ahsen and Pranav
 
+## 24 October 2024
+**Sketch 2.0 for robot mechanism**
+All the details can be found in Pranav's journal [here](https://github.com/sripranav9/PerformingRobots/blob/main/journal.md#24-october-2024)
+
 ## 1 October 2024
 **Presentation 1 question**
 
