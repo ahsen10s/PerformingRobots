@@ -3,6 +3,8 @@
 ## 29 October 2024
 **Peacock Tail Entry 1**
 <video src="journal_assets/half_tail.mp4" width="320" height="240" controls></video>
+<iframe width="560" height="315" src="https://youtube.com/shorts/mMwDYpOA7Ys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://youtube.com/shorts/mMwDYpOA7Ys)
 
 ## 24 October 2024
 **Sketch 2.0 for robot mechanism**
