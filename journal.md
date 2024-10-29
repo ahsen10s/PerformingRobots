@@ -13,6 +13,7 @@ After, we coded the expected movement into the arduino. This required mapping th
 
 
 '''
+
 // Code for the left servo
 
 #include <Servo.h>
@@ -45,6 +46,7 @@ void loop() {
 
   delay(1000); // Add a delay for stability
 }
+
 '''
 
 `#include <Servo.h>`
