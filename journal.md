@@ -4,7 +4,7 @@
 **Peacock Tail Iteration 1**
 
 ![Attach servo](/journal_assets/tail_sketch1.jpeg)
-First sketched out how we would build Mrs.Peacock's tail. Its structure was held up with 3 wooden beams. One beem would be drilled into the foundation behind the robot to be straight. The other two beams would be drilled into two servors planted on either sides of our central beam. The 3 beams would be dressed in fabric of peacock colors. When triggered, the two servons would turn in opposite directions, moving the beams with them, thereby opening up the 'tail'. This constitutes the main tail mechanism.
+First sketched out how we would build Mrs.Peacock's tail. Its structure was held up with three wooden beams. One beem would be drilled into the foundation behind the robot to hold the tail up. The other two beams would be held by two servors planted on either sides of the central beam. The three beams would be dressed in fabric of peacock colors. When triggered, the two servons would turn in opposite directions, moving the beams with them, thereby opening up Mrs.Peacock's 'tail'. This constitutes the main tail mechanism.
 
 
 ![Attach servo](/journal_assets/25kg_servo.jpeg)
@@ -17,30 +17,41 @@ After, we coded the expected movement into the arduino. This required mapping th
 `Servo Servo1;`
 
 `int servoPin = 9;`
+
 `int commandGiven = 0;`
 
 `void setup() {`
 
 `  Servo1.attach(servoPin);`
+
 `}`
 
 `void loop() {`
+
 `  // The resting angle (hiding behind the robot)`
+
 `  int angle = 96; //tested precise angle`
 
 `  // Code to be updated as we progress with the functionality`
+
 `  commandGiven = 1; //this will be changed, as of now it's being hardcoded for testing purposes`
+
 `  if (commandGiven == 1) {`
+
 `    angle = 30;`
+
 `  }`
 
 `  // Mapping the angle we want (because the servo has a wider angle than a usual servo)`
+
 `  int mappedAngle = map(angle, 0, 270, 0, 180);`
 
 `  // Write the mapped angle to the servo`
+
 `  Servo1.write(mappedAngle);`
 
 `  delay(1000); // Add a delay for stability`
+
 `}`
 
 
