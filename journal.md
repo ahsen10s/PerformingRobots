@@ -2,7 +2,7 @@
 
 ## 29 October 2024
 **Peacock Tail Entry 1**
-<video src="/journal_assets/half_tail.mp4" width="320" height="240" controls></video>
+<video src="journal_assets/half_tail.mp4" width="320" height="240" controls></video>
 
 ## 24 October 2024
 **Sketch 2.0 for robot mechanism**
