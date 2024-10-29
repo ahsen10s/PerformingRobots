@@ -59,6 +59,7 @@ After, we coded the expected movement into the arduino. This required mapping th
 Next we drilled a beam of appropriate length onto this servo. We chose wood for its lightness. All it had to support was fabric and its own weight, so wood seemed to be the best material.
 
 **Video:**
+
 [![half_tail](https://img.youtube.com/vi/mMwDYpOA7Ys/0.jpg)](https://youtube.com/shorts/mMwDYpOA7Ys)
 
 ## 24 October 2024
