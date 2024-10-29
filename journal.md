@@ -12,6 +12,41 @@ Next we attached the servo to the Arduino Uno. We only possessed one 25kg servo 
 After, we coded the expected movement into the arduino. This required mapping the range, as well as setting the min and max angle.
 
 
+'''
+// Code for the left servo
+
+#include <Servo.h>
+
+Servo Servo1;
+
+int servoPin = 9;
+int commandGiven = 0;
+
+void setup() {
+
+  Servo1.attach(servoPin);
+}
+
+void loop() {
+  // The resting angle (hiding behind the robot)
+  int angle = 96; //tested precise angle
+
+  // Code to be updated as we progress with the functionality
+  commandGiven = 1; //this will be changed, as of now it's being hardcoded for testing purposes
+  if (commandGiven == 1) {
+    angle = 30;
+  }
+
+  // Mapping the angle we want (because the servo has a wider angle than a usual servo)
+  int mappedAngle = map(angle, 0, 270, 0, 180);
+
+  // Write the mapped angle to the servo
+  Servo1.write(mappedAngle);
+
+  delay(1000); // Add a delay for stability
+}
+'''
+
 `#include <Servo.h>`
 
 `Servo Servo1;`
@@ -53,6 +88,7 @@ After, we coded the expected movement into the arduino. This required mapping th
 `  delay(1000); // Add a delay for stability`
 
 `}`
+
 
 
 ![Attach servo](/journal_assets/servo_drilled.jpeg)
