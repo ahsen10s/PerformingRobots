@@ -12,7 +12,7 @@ Next we attached the servo to the Arduino Uno. We only possessed one 25kg servo 
 After, we coded the expected movement into the arduino. This required mapping the range, as well as setting the min and max angle.
 
 
-'''
+```
 
 // Code for the left servo
 
@@ -47,7 +47,7 @@ void loop() {
   delay(1000); // Add a delay for stability
 }
 
-'''
+```
 
 `#include <Servo.h>`
 
