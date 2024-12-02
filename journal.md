@@ -1,23 +1,27 @@
 # Journal: Ahsen and Pranav
 
 ## 26 November 2024
-**Level 2 Foundation**
+**Robot Fabrications 1**
 
+### Constume Skirt
 ![Constume](/journal_assets/costume_skirt.jpg)
 
 With the help of the Equipment center, we went to the costume shop to look for gown/skirts and accessories for Mrs.Peacock. We found two skirts that coincientally worked well together. One was white and plain while the other was a light pink, layered and see through. When put over the other, their colors and texture complimented eachother so we decided to use both. This will cover the legs of the lvl 2 foundation.
 
+### Layer Fortification
 ![Fortify body](/journal_assets/fortify_body.jpg)
 
 We laser cut the layers of Mrs.Peacock's body one by one. The maximum dimension the laser cutter could handle was 80cmx50cm, so we cut as big as we could. For the central layer we cut two identical pieces that we stuck together for greater structure integrity. This is the piece that would support all the other layers and it would be the only layer mounted to the lvl 2 foundations (using 6 L brackets to spread out the pressure on the base of the cardboard) so it needed to be reliably strong. We also inserted several wooden skweres into the cardboard to fortify it along its weaker axis. The last thing we want is for it to bend under the weight of the other layers it would support. Furthermore, we did not have any more cardboard to laser cut a piece as big as the central layer, so we moved as cautiously as we could.
 
+### Joining Body Layers
 ![join body](/journal_assets/hot_glue_body.jpg)
 
 We drilled 3 holes through all the body layers and 2 holes through the face layers, and pushed wooden skewers through them. Next we hot glued all the pieces in place to maintain the illusion of a 3D peacock body. 
 
+### Tail Fabric
 ![Tail fabric](/journal_assets/hot_glue_body_2.jpg)
 
-We also cut and stapled the fabrics we procured onto the tail. The more time consuming part of this step was deciding on the fabrics we wanted. We also asked many classmates and students in the IM lab for their thoughts on how the tail should look. The above picture is the design we settled on.
+We also cut and stapled the fabrics we procured onto the tail. The more time consuming part of this step was deciding on the fabrics we wanted. We also asked many classmates and students in the IM lab for their thoughts on how the tail should look. The above picture is the design we settled on. 
 
 
 ![Constume](/journal_assets/costume_skirt.jpg)
