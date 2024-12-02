@@ -1,5 +1,25 @@
 # Journal: Ahsen and Pranav
 
+## 19 November 2024
+**Level 2 Foundation**
+
+![Fabrics](/journal_assets/fabric.jpg)
+We also were abel to procure fabrics from the Textile studio with the help of Tucker. We looked for designs, colors, and textures that would complement Mrs. Peacocks body and tail. As she is a loud and prideful character, we opted for loud, vibrant colors to be an extension of her personality.
+
+![mount tail](/journal_assets/mount_tail.jpg)
+Next we mounted our the tail components and Arduino Mega to the the lvl 2 foundation. We also tested the tail mechanism to find the appropriate angles for the servos to 'open' and 'close' the tail.
+
+## 12 November 2024
+**Body Designing and Level 2 Foundation**
+
+![Body design](/journal_assets/design_body.jpg)
+We created layers for the peacock body on illustrator. By describing type of peacock profile we were looking for to co-pilot LLM, we were able to get an image drawing we could work with. We then imported this into illustrator and converted it into vector. We then polished it to fit what we had in mind of Mrs.peacock and for practicality (like a longer neck and flat base to ease its mounting to the foundation). Once we had a central piece we were ready with, we then worked on the progressively smaller pieces that would give Mrs.peacock a 3D body when spaced horizontally next to each other. We also incorporated feather and wing details to the outermost layers. Once we were happy with the design, we laser cut the central layer to see how it looks on the newly built lvl 2 foundation.
+
+![lvl 2 foundation](/journal_assets/foundation&prototype.jpg)
+This weekend we worked on creating a second foundation for Mrs.Peacock. This is where we envision Mrs.peacock's body and tail will be mounted to. Since the dimensions of the body we will design is limited to the maximum size the laser cutter can hold, we must construct the foundation height somewhat proportionally. The foundation is help up and attached to 2 wooden rods using two L brackets for each of the 2 rods, both at the base and the top. If it is not stable, we may consider adding another leg.
+
+
+
 ## 5 November 2024
 **Peacock Tail Iteration 2**
 
