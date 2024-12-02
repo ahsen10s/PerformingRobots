@@ -1,5 +1,17 @@
 # Journal: Ahsen and Pranav
 
+## 3 December 2024
+**Robot Fabrications 2**
+
+### Solder Neopixel rings for eyes
+![Solder Neopixels eyes](/journal_assets/solder_neopixels.jpg)
+
+Since our peacock's head is relatively small, we decided to use neopixels rings for its eyes rather than the neopixel matrix. All though these may be less expressive, we hope to make up for this using peacock's voice and tail movement. We coded the rings to change to different colors to repreent different emotions Mrs.Peacock feels in the moment. White is the default color, which represents her normal state (which is still pretty eccentric compared to other personalities). Purple ring indicates Peacock is embarrased or flustered, and red is anger and outrage. We also implemented a blinking animation to make her feel for real.
+
+![body fabric](/journal_assets/body_fabric.jpg)
+
+Next we worked on covering Mrs.Body with the a blue fabric we found in the Textile Studio. We stapled all the fabric together since neither of us were adept in sewing. We also chose not to use glue as it seemed too permanent a measure. A mistake while working with glue (which seemed very likely since we found working with fabric was challenging) seemed very unforgiving, whereas when we made a mistake with stapling, we simply removed the staple, and left no noticable damage on the fabric that we hoped to return to the Textile Studio. Also, we coded in all of Mrs.peacock's movements and dialogues in the play. We created the dialogues using the AI text-to-speech website 'ElevenLabs'.
+
 ## 26 November 2024
 **Robot Fabrications 1**
 
@@ -14,6 +26,8 @@ With the help of the Equipment center, we went to the costume shop to look for g
 We laser cut the layers of Mrs.Peacock's body one by one. The maximum dimension the laser cutter could handle was 80cmx50cm, so we cut as big as we could. For the central layer we cut two identical pieces that we stuck together for greater structure integrity. This is the piece that would support all the other layers and it would be the only layer mounted to the lvl 2 foundations (using 6 L brackets to spread out the pressure on the base of the cardboard) so it needed to be reliably strong. We also inserted several wooden skweres into the cardboard to fortify it along its weaker axis. The last thing we want is for it to bend under the weight of the other layers it would support. Furthermore, we did not have any more cardboard to laser cut a piece as big as the central layer, so we moved as cautiously as we could.
 
 ### Joining Body Layers
+![join body](/journal_assets/join_body_layers.jpg)
+![join body](/journal_assets/join_body_layers_2.jpg)
 ![join body](/journal_assets/hot_glue_body.jpg)
 
 We drilled 3 holes through all the body layers and 2 holes through the face layers, and pushed wooden skewers through them. Next we hot glued all the pieces in place to maintain the illusion of a 3D peacock body. 
@@ -22,11 +36,6 @@ We drilled 3 holes through all the body layers and 2 holes through the face laye
 ![Tail fabric](/journal_assets/hot_glue_body_2.jpg)
 
 We also cut and stapled the fabrics we procured onto the tail. The more time consuming part of this step was deciding on the fabrics we wanted. We also asked many classmates and students in the IM lab for their thoughts on how the tail should look. The above picture is the design we settled on. 
-
-
-![Constume](/journal_assets/costume_skirt.jpg)
-
-With the help of the Equipment center, we went to the costume shop to look for gown/skirts and accessories for Mrs.Peacock. We found two skirts that coincientally worked well together. One was white and plain while the other was a light pink, layered and see through. When put over the other, their colors and texture complimented eachother so we decided to use both. This will cover the legs of the lvl 2 foundation.
 
 ## 19 November 2024
 **Level 2 Foundation**
