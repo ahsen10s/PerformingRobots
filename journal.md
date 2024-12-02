@@ -1,5 +1,14 @@
 # Journal: Ahsen and Pranav
 
+## 5 November 2024
+**Peacock Tail Iteration 2**
+
+![two rod for tail](/journal_assets/two_tail.jpg)
+We duplicated what we did last weekend to create the second rod for the other half of the tail. We now have the two moving components of the tail. Our next step would be to create a mount a central beam along with these two moving rods set the backbone of the tail.
+
+![Solder shield](/journal_assets/solder_shield.jpeg)
+We also soldered the shield for the Arduino Mega as instructed in class and github. Moving forward, we hope to test our peacock tail code once we plug it into the newly recieved mega.
+
 ## 29 October 2024
 **Peacock Tail Iteration 1**
 
