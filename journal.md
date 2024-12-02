@@ -8,6 +8,7 @@
 
 Since our peacock's head is relatively small, we decided to use neopixels rings for its eyes rather than the neopixel matrix. All though these may be less expressive, we hope to make up for this using peacock's voice and tail movement. We coded the rings to change to different colors to repreent different emotions Mrs.Peacock feels in the moment. White is the default color, which represents her normal state (which is still pretty eccentric compared to other personalities). Purple ring indicates Peacock is embarrased or flustered, and red is anger and outrage. We also implemented a blinking animation to make her feel for real.
 
+### Body Fabric
 ![body fabric](/journal_assets/body_fabric.jpg)
 
 Next we worked on covering Mrs.Body with the a blue fabric we found in the Textile Studio. We stapled all the fabric together since neither of us were adept in sewing. We also chose not to use glue as it seemed too permanent a measure. A mistake while working with glue (which seemed very likely since we found working with fabric was challenging) seemed very unforgiving, whereas when we made a mistake with stapling, we simply removed the staple, and left no noticable damage on the fabric that we hoped to return to the Textile Studio. Also, we coded in all of Mrs.peacock's movements and dialogues in the play. We created the dialogues using the AI text-to-speech website 'ElevenLabs'.
@@ -40,11 +41,12 @@ We also cut and stapled the fabrics we procured onto the tail. The more time con
 ## 19 November 2024
 **Level 2 Foundation**
 
+### Fabric Procurement and Selection
 ![Fabrics](/journal_assets/fabric.jpg)
 
 We also were able to procure fabrics from the Textile studio with the help of Tucker. We looked for designs, colors, and textures that would complement Mrs. Peacocks body and tail. As she is a loud and prideful character, we opted for loud, vibrant colors to be an extension of her personality.
 
-
+### Mounting Tail Components
 ![mount tail](/journal_assets/mount_tail.jpg)
 
 Next we mounted our the tail components and Arduino Mega to the the lvl 2 foundation. We also tested the tail mechanism to find the appropriate angles for the servos to 'open' and 'close' the tail.
@@ -52,10 +54,12 @@ Next we mounted our the tail components and Arduino Mega to the the lvl 2 founda
 ## 12 November 2024
 **Body Designing and Level 2 Foundation**
 
+### Designing Body
 ![Body design](/journal_assets/design_body.jpg)
 
 We created layers for the peacock body on illustrator. By describing type of peacock profile we were looking for to co-pilot LLM, we were able to get an image drawing we could work with. We then imported this into illustrator and converted it into vector. We then polished it to fit what we had in mind of Mrs.peacock and for practicality (like a longer neck and flat base to ease its mounting to the foundation). Once we had a central piece we were ready with, we then worked on the progressively smaller pieces that would give Mrs.peacock a 3D body when spaced horizontally next to each other. We also incorporated feather and wing details to the outermost layers. Once we were happy with the design, we laser cut the central layer to see how it looks on the newly built lvl 2 foundation.
 
+### Building Second Foundation and Laser Cutting Prototype
 ![lvl 2 foundation](/journal_assets/foundation&prototype.jpg)
 
 This weekend we worked on creating a second foundation for Mrs.Peacock. This is where we envision Mrs.peacock's body and tail will be mounted to. Since the dimensions of the body we will design is limited to the maximum size the laser cutter can hold, we must construct the foundation height somewhat proportionally. The foundation is help up and attached to 2 wooden rods using two L brackets for each of the 2 rods, both at the base and the top. If it is not stable, we may consider adding another leg.
@@ -65,11 +69,13 @@ This weekend we worked on creating a second foundation for Mrs.Peacock. This is 
 ## 5 November 2024
 **Peacock Tail Iteration 2**
 
+### Build Tail Moving Components
 ![two rod for tail](/journal_assets/two_tail.jpg)
 We duplicated what we did last weekend to create the second rod for the other half of the tail. We now have the two moving components of the tail. Our next step would be to create a mount a central beam along with these two moving rods set the backbone of the tail.
 
+### Soldering shield
 ![Solder shield](/journal_assets/solder_shield.jpg)
-We also soldered the shield for the Arduino Mega as instructed in class and github. Moving forward, we hope to test our peacock tail code once we plug it into the newly recieved mega.
+We also soldered the shield for the Arduino Mega as instructed in class and github. Moving forward, we hope to test our peacock tail code once we plug it into the newly recieved mega. 
 
 ## 29 October 2024
 **Peacock Tail Iteration 1**
