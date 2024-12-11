@@ -1,5 +1,8 @@
 # Journal: Ahsen and Pranav
 
+## 10 December 2024
+All the updates about the showcase day can be found on [Pranav's journal linked here](https://github.com/sripranav9/PerformingRobots/blob/main/journal.md#10-december-2024)
+
 ## 3 December 2024
 **Robot Fabrications 2**
 
